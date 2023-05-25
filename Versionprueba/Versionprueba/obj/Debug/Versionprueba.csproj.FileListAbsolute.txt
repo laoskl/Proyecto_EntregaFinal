@@ -1,0 +1,30 @@
+C:\Users\Salas\source\repos\Versionprueba\Versionprueba\bin\Debug\Versionprueba.exe.config
+C:\Users\Salas\source\repos\Versionprueba\Versionprueba\bin\Debug\Versionprueba.exe
+C:\Users\Salas\source\repos\Versionprueba\Versionprueba\bin\Debug\Versionprueba.pdb
+C:\Users\Salas\source\repos\Versionprueba\Versionprueba\obj\Debug\Versionprueba.csproj.AssemblyReference.cache
+C:\Users\Salas\source\repos\Versionprueba\Versionprueba\obj\Debug\Versionprueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salas\source\repos\Versionprueba\Versionprueba\obj\Debug\Versionprueba.Form1.resources
+C:\Users\Salas\source\repos\Versionprueba\Versionprueba\obj\Debug\Versionprueba.Properties.Resources.resources
+C:\Users\Salas\source\repos\Versionprueba\Versionprueba\obj\Debug\Versionprueba.csproj.GenerateResource.cache
+C:\Users\Salas\source\repos\Versionprueba\Versionprueba\obj\Debug\Versionprueba.csproj.CoreCompileInputs.cache
+C:\Users\Salas\source\repos\Versionprueba\Versionprueba\obj\Debug\Versionprueba.exe
+C:\Users\Salas\source\repos\Versionprueba\Versionprueba\obj\Debug\Versionprueba.pdb
+C:\Users\Salas\source\repos\Versionprueba\Versionprueba\obj\Debug\Versionprueba.Form2.resources
+C:\Users\Salas\source\repos\Versionprueba\Versionprueba\obj\Debug\Versionprueba.Form3.resources
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\bin\Debug\Versionprueba.exe.config
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\bin\Debug\Versionprueba.exe
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\bin\Debug\Versionprueba.pdb
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\obj\Debug\Versionprueba.csproj.AssemblyReference.cache
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\obj\Debug\Versionprueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\obj\Debug\Versionprueba.Form1.resources
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\obj\Debug\Versionprueba.Form2.resources
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\obj\Debug\Versionprueba.Form3.resources
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\obj\Debug\Versionprueba.Properties.Resources.resources
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\obj\Debug\Versionprueba.csproj.GenerateResource.cache
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\obj\Debug\Versionprueba.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\obj\Debug\Versionprueba.exe
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\obj\Debug\Versionprueba.pdb
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\obj\Debug\Versionprueba.Form4.resources
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\obj\Debug\Versionprueba.Form5.resources
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\obj\Debug\Versionprueba.Form6.resources
+C:\Users\MY PC\Desktop\Versionprueba\Versionprueba\obj\Debug\Versionprueba.Form7.resources
